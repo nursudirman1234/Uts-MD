@@ -1,0 +1,2 @@
+id/rdev/MyStore/BuildConfig.java
+ id.rdev.MyStore.BuildConfig
